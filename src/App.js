@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import "./style.css";
-import { Button, Input, Footer, Card, CardBody, CardImage, CardTitle, CardText } from "mdbreact";
+import './style.css';
+import { Input, Footer, Card, CardBody, CardTitle } from 'mdbreact';
 import contentList from './Content.json';
 
 class App extends React.Component {
@@ -13,10 +13,6 @@ class App extends React.Component {
   renderContent = content => {
     const {search} = this.state;
     
-    // if( search !== "" && content.name.toLowerCase().indexOf(search.toLowerCase()) === -1 ) {
-    //   return null;
-    // }
-
     return (
       <div className="col-md-3" style={{ marginTop: "20px" }}>
         <Card>
@@ -50,7 +46,7 @@ class App extends React.Component {
             
             <div>
 
-              <div>
+              <div style={{color: "#0078d7"}}>
                 <center>
                 <h1>the tanay pratap search engine</h1><br/><br/>
                 </center>
@@ -59,7 +55,7 @@ class App extends React.Component {
               <div>
                 <center>
                   <Input
-                    label="search anything! e.g., microsoft, job, masters"
+                    label="search anything! e.g., microsoft, job, javascript, masters"
                     icon="search"
                     onChange={this.onChange}
                   />
@@ -68,7 +64,7 @@ class App extends React.Component {
 
               <div>
                 <center>
-                  <h4>search for anything tanay has ever said</h4><br/><br/>
+                  <h5>search for anything tanay has ever said</h5><br/><br/>
                 </center>
               </div>
 
