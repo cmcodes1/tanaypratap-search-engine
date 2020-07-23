@@ -18,8 +18,7 @@ class App extends React.Component {
         <Card>
           <CardBody>
             <CardTitle title={content.question}>
-              {content.question} <br/><br/>
-              <a href={content.link} target="_blank">tanay's answer</a>
+              <a href={content.link} target="_blank">{content.question}</a>
             </CardTitle>
           </CardBody>
         </Card>
