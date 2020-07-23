@@ -17,9 +17,10 @@ class App extends React.Component {
       <div className="col-md-3" style={{ marginTop: "20px" }}>
         <Card>
           <CardBody>
-            <CardTitle title={content.name}>
-              {content.name.substring(0, 100)}
-              {content.name.length > 100 && "..."}
+            <CardTitle title={content.question}>
+              {content.question.substring(0, 100)}
+              {content.question.length > 100 && "..."} <br/><br/>
+              <a href={content.link} target="_blank">tanay's answer</a>
             </CardTitle>
           </CardBody>
         </Card>
@@ -35,7 +36,7 @@ class App extends React.Component {
     
     const { search } = this.state;
     const filteredContent = contentList.filter(content => {
-      return content.name.toLowerCase().indexOf(search.toLowerCase()) !== -1;
+      return content.question.toLowerCase().indexOf(search.toLowerCase()) !== -1;
     });
 
     return (

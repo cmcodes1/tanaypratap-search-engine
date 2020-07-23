@@ -1,17 +1,18 @@
 [
     {
-        "name": "How to find out the amount of data your page is using?"
+        "question": "How to find out the amount of data your page is using?",
+        "link": "https://github.com/tanaypratap/ama/issues/1"
     },
     {
-        "name": "How to get started with open source?"
+        "question": "How to get started with open source?"
     },
     {
-        "name": "Tech personalities to follow on Twitter/LinkedIn?"
+        "question": "Tech personalities to follow on Twitter/LinkedIn?"
     },
     {
-        "name": "What is the importance of internships in 2nd year? Would it be okay, if I invest time in learning DS, Algo and other computer science related stuff?"
+        "question": "What is the importance of internships in 2nd year? Would it be okay, if I invest time in learning DS, Algo and other computer science related stuff?"
     },
     {
-        "name": "If I have a hectic job how do I find the time to learn outside it?"
+        "question": "If I have a hectic job how do I find the time to learn outside it?"
     }
 ]
