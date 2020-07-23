@@ -29,12 +29,11 @@ class App extends React.Component {
         </Card>
       </div>
     );
-
-  }
+  };
 
   onChange = e => {
     this.setState({ search: e.target.value });
-  }
+  };
 
   render() {
     
@@ -44,52 +43,53 @@ class App extends React.Component {
     });
 
     return (
-      <>
-        <div className="flyout">
-          <main style={{ marginTop: "4rem" }}>
-            <div className="container">
+      <div className="flyout">
+
+        <main style={{ marginTop: "4rem" }}>
+          <div className="container">
+            
+            <div>
+
+              <div>
+                <center>
+                <h1>the tanay pratap search engine</h1><br/><br/>
+                </center>
+              </div>
               
               <div>
-
-                <div>
-                  <center>
-                  <h1>the tanay pratap search engine</h1><br/><br/>
-                  </center>
-                </div>
-                
-                <div>
-                  <center>
-                    <Input
-                      label="search anything! e.g., microsoft, job, masters"
-                      icon="search"
-                      onChange={this.onchange}
-                    />
-                  </center>
-                </div>
-
-                <div>
-                  <center>
-                    <h4>search for anything tanay has ever said</h4><br/><br/>
-                  </center>
-                </div>
-
+                <center>
+                  <Input
+                    label="search anything! e.g., microsoft, job, masters"
+                    icon="search"
+                    onChange={this.onChange}
+                  />
+                </center>
               </div>
 
-              <div className="row">
-                {filteredContent.map(content => {
-                  return this.renderContent(content);
-                })}
+              <div>
+                <center>
+                  <h4>search for anything tanay has ever said</h4><br/><br/>
+                </center>
               </div>
 
             </div>
-          </main>
-          <Footer color="blue">
-            <p className="footer-copyright mb-0" style={{ marginTop: 50 }}>
-              &copy; {new Date().getFullYear()} | Made by <a href="https://www.github.com/cmcodes1">cmcodes</a> for tanaypratap with ❤️
-            </p>
-          </Footer>
-        </div>
-      </>
+
+            <div className="row">
+              {filteredContent.map(content => {
+                return this.renderContent(content);
+              })}
+            </div>
+
+          </div>
+        </main>
+
+        <Footer color="blue">
+          <p className="footer-copyright mb-0" style={{ marginTop: 50 }}>
+            &copy; {new Date().getFullYear()} | Made by <a href="https://www.github.com/cmcodes1" target="_blank">cmcodes</a> for tanaypratap with ❤️
+          </p>
+        </Footer>
+
+      </div>
     );
   }
 }
