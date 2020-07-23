@@ -18,8 +18,7 @@ class App extends React.Component {
         <Card>
           <CardBody>
             <CardTitle title={content.question}>
-              {content.question.substring(0, 100)}
-              {content.question.length > 100 && "..."} <br/><br/>
+              {content.question} <br/><br/>
               <a href={content.link} target="_blank">tanay's answer</a>
             </CardTitle>
           </CardBody>

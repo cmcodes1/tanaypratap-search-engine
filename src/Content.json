@@ -4,15 +4,331 @@
         "link": "https://github.com/tanaypratap/ama/issues/1"
     },
     {
-        "question": "How to get started with open source?"
+        "question": "How to get started with open source?",
+        "link": "https://github.com/tanaypratap/ama/issues/2"
     },
     {
-        "question": "Tech personalities to follow on Twitter/LinkedIn?"
+        "question": "Tech personalities to follow on Twitter/LinkedIn?",
+        "link": "https://github.com/tanaypratap/ama/issues/3"
     },
     {
-        "question": "What is the importance of internships in 2nd year? Would it be okay, if I invest time in learning DS, Algo and other computer science related stuff?"
+        "question": "What is the importance of internships in 2nd year? Would it be okay, if I invest time in learning DS, Algo and other computer science related stuff?",
+        "link": "https://github.com/tanaypratap/ama/issues/9"
     },
     {
-        "question": "If I have a hectic job how do I find the time to learn outside it?"
+        "question": "If I have a hectic job how do I find the time to learn outside it?",
+        "link": "https://github.com/tanaypratap/ama/issues/12"
+    },
+    {
+        "question": "Tell us about your journey and how you got into Microsoft, that would help others as well.",
+        "link": "https://github.com/tanaypratap/ama/issues/14"
+    },
+    {
+        "question": "Since I want to develop apps for android, can you teach Java as well?",
+        "link": "https://github.com/tanaypratap/ama/issues/16"
+    },
+    {
+        "question": "Can you suggest some resources to learn cloud computing?",
+        "link": "https://github.com/tanaypratap/ama/issues/20"
+    },
+    {
+        "question": "What types of projects can help in getting jobs at big tech companies?",
+        "link": "https://github.com/tanaypratap/ama/issues/21"
+    },
+    {
+        "question": "Why should I learn JavaScript?",
+        "link": "https://github.com/tanaypratap/ama/issues/23"
+    },
+    {
+        "question": "I have to develop a twitter like social media for my final year project. Which platform is better for me as a student ?",
+        "link": "https://github.com/tanaypratap/ama/issues/24"
+    },
+    {
+        "question": "How to optimize your website for minimum data consumption?",
+        "link": "https://github.com/tanaypratap/ama/issues/26"
+    },
+    {
+        "question": "If I am not good at coding should I go for cloud computing i.e. AWS or Azure certification?",
+        "link": "https://github.com/tanaypratap/ama/issues/28"
+    },
+    {
+        "question": "Which languages are suitable for web development and machine learning?",
+        "link": "https://github.com/tanaypratap/ama/issues/32"
+    },
+    {
+        "question": "Views on GitHub desktop , VS code extension?",
+        "link": "https://github.com/tanaypratap/ama/issues/33"
+    },
+    {
+        "question": "How javascript fit into web development ?",
+        "link": "https://github.com/tanaypratap/ama/issues/34"
+    },
+    {
+        "question": "Does college name really matter ? I am currently in 1st Year i am comfortable in C/C++ , how should i start contributing to open source development ?",
+        "link": "https://github.com/tanaypratap/ama/issues/35"
+    },
+    {
+        "question": "Open Source Contributions Importance",
+        "link": "https://github.com/tanaypratap/ama/issues/36"
+    },
+    {
+        "question": "From placement perspective, should I bet on something new like Flutter or do competitive coding?",
+        "link": "https://github.com/tanaypratap/ama/issues/37"
+    },
+    {
+        "question": "What's your opinion on Flutter?",
+        "link": "https://github.com/tanaypratap/ama/issues/39"
+    },
+    {
+        "question": "Is there a bias against tattoos in software engineering field?",
+        "link": "https://github.com/tanaypratap/ama/issues/40"
+    },
+    {
+        "question": "EC to Software company",
+        "link": "https://github.com/tanaypratap/ama/issues/43"
+    },
+    {
+        "question": "Where to start the free course?",
+        "link": "https://github.com/tanaypratap/ama/issues/44"
+    },
+    {
+        "question": "What framework would you recommend to learn for development?",
+        "link": "https://github.com/tanaypratap/ama/issues/45"
+    },
+    {
+        "question": "Will the learncodingfree course cover web templates?",
+        "link": "https://github.com/tanaypratap/ama/issues/46"
+    },
+    {
+        "question": "What is the meteor.js framework used for? Is it for the front-end or backend?",
+        "link": "https://github.com/tanaypratap/ama/issues/47"
+    },
+    {
+        "question": "How to prepare for competitive coding? Should I join a class or learn online?",
+        "link": "https://github.com/tanaypratap/ama/issues/48"
+    },
+    {
+        "question": "Why is the course being taught in JavaScript?",
+        "link": "https://github.com/tanaypratap/ama/issues/49"
+    },
+    {
+        "question": "Web hosting and how it all works (delivering project to client etc..).",
+        "link": "https://github.com/tanaypratap/ama/issues/57"
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
+    },
+    {
+        "question": "",
+        "link": ""
     }
 ]
