@@ -22,8 +22,8 @@ class App extends React.Component {
         <Card>
           <CardBody>
             <CardTitle title={content.name}>
-              {content.name.substring(0, 70)}
-              {content.name.length > 70 && "..."}
+              {content.name.substring(0, 100)}
+              {content.name.length > 100 && "..."}
             </CardTitle>
           </CardBody>
         </Card>
@@ -48,31 +48,43 @@ class App extends React.Component {
         <div className="flyout">
           <main style={{ marginTop: "4rem" }}>
             <div className="container">
-              <div className="row">
-                <div className="col-12">
+              
+              <div>
+
+                <div>
                   <center>
-                    <h3>The Tanay Pratap Search Engine</h3>
+                  <h1>the tanay pratap search engine</h1><br/><br/>
                   </center>
                 </div>
-                <div className="col">
-                  <Input
-                    label="Search anything! e.g., microsoft, job, masters"
-                    icon="search"
-                    onChange={this.onchange}
-                  />
+                
+                <div>
+                  <center>
+                    <Input
+                      label="search anything! e.g., microsoft, job, masters"
+                      icon="search"
+                      onChange={this.onchange}
+                    />
+                  </center>
                 </div>
-                <h3>Search for anything Tanay has ever said</h3>
-                <div className="col" />
+
+                <div>
+                  <center>
+                    <h4>search for anything tanay has ever said</h4><br/><br/>
+                  </center>
+                </div>
+
               </div>
+
               <div className="row">
                 {filteredContent.map(content => {
                   return this.renderContent(content);
                 })}
               </div>
+
             </div>
           </main>
           <Footer color="blue">
-            <p className="footer-copyright mb-0">
+            <p className="footer-copyright mb-0" style={{ marginTop: 50 }}>
               &copy; {new Date().getFullYear()} | Made by <a href="https://www.github.com/cmcodes1">cmcodes</a> for tanaypratap with ❤️
             </p>
           </Footer>
