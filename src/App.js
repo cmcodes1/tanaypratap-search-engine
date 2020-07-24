@@ -53,7 +53,7 @@ class App extends React.Component {
               <div>
                 <center>
                   <Input
-                    label="search anything! e.g., microsoft, job, javascript, masters"
+                    label="e.g., microsoft, job, javascript"
                     icon="search"
                     onChange={this.onChange}
                   />
