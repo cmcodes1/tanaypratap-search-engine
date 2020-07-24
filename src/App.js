@@ -80,7 +80,7 @@ class App extends React.Component {
 
         <Footer color="blue">
           <p className="footer-copyright mb-0" style={{ marginTop: 50 }}>
-            &copy; {new Date().getFullYear()} | Made by <a href="https://cmcodes1.github.io/" target="_blank">cmcodes</a> for <a href="https://tanaypratap.com/" target="_blank">tanaypratap</a> with ❤️ & React.
+            &copy; {new Date().getFullYear()} | Made by <a href="https://cmcodes1.github.io/" target="_blank" rel="noopener noreferrer">cmcodes</a> for <a href="https://tanaypratap.com/" target="_blank" rel="noopener noreferrer">tanaypratap</a> with ❤️ & React.
           </p>
         </Footer>
 
