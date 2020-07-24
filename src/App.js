@@ -18,7 +18,7 @@ class App extends React.Component {
         <Card>
           <CardBody>
             <CardTitle title={content.question}>
-              <a href={content.link} target="_blank">{content.question}</a>
+              <a href={content.link} target="_blank">{content.question}</a> 
             </CardTitle>
           </CardBody>
         </Card>
@@ -63,7 +63,7 @@ class App extends React.Component {
 
               <div>
                 <center>
-                  <h5>search for anything tanay has ever said</h5><br/><br/>
+                  <h5>search for anything tanay has ever said<br/></h5><br/><br/>
                 </center>
               </div>
 
@@ -80,7 +80,7 @@ class App extends React.Component {
 
         <Footer color="blue">
           <p className="footer-copyright mb-0" style={{ marginTop: 50 }}>
-            &copy; {new Date().getFullYear()} | Made by <a href="https://www.github.com/cmcodes1" target="_blank">cmcodes</a> for tanaypratap with ❤️
+            &copy; {new Date().getFullYear()} | Made by <a href="https://cmcodes1.github.io/" target="_blank">cmcodes</a> for <a href="https://tanaypratap.com/" target="_blank">tanaypratap</a> with ❤️ & React.
           </p>
         </Footer>
 

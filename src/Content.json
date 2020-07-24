@@ -1,5 +1,9 @@
 [
     {
+        "question": "Why should I learn JavaScript?",
+        "link": "https://github.com/tanaypratap/ama/issues/23"
+    },
+    {
         "question": "How to find out the amount of data your page is using?",
         "link": "https://github.com/tanaypratap/ama/issues/1"
     },
@@ -10,10 +14,6 @@
     {
         "question": "Tech personalities to follow on Twitter/LinkedIn?",
         "link": "https://github.com/tanaypratap/ama/issues/3"
-    },
-    {
-        "question": "What is the importance of internships in 2nd year? Would it be okay, if I invest time in learning DS, Algo and other computer science related stuff?",
-        "link": "https://github.com/tanaypratap/ama/issues/9"
     },
     {
         "question": "If I have a hectic job how do I find the time to learn outside it?",
@@ -36,10 +36,6 @@
         "link": "https://github.com/tanaypratap/ama/issues/21"
     },
     {
-        "question": "Why should I learn JavaScript?",
-        "link": "https://github.com/tanaypratap/ama/issues/23"
-    },
-    {
         "question": "I have to develop a twitter like social media for my final year project. Which platform is better for me as a student ?",
         "link": "https://github.com/tanaypratap/ama/issues/24"
     },
@@ -58,6 +54,10 @@
     {
         "question": "Views on GitHub desktop , VS code extension?",
         "link": "https://github.com/tanaypratap/ama/issues/33"
+    },
+    {
+        "question": "What is the importance of internships in 2nd year? Would it be okay, if I invest time in learning DS, Algo and other computer science related stuff?",
+        "link": "https://github.com/tanaypratap/ama/issues/9"
     },
     {
         "question": "Does college name really matter ? I am currently in 1st Year i am comfortable in C/C++ , how should i start contributing to open source development ?",
@@ -1180,887 +1180,111 @@
         "link": "https://www.youtube.com/watch?v=oSA1NbNg_O4"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "where should I host my blog?",
+        "link": "https://anchor.fm/tanaypratap/episodes/where-should-I-host-my-blog-ecrlsg"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "let's get you a job",
+        "link": "https://anchor.fm/tanaypratap/episodes/lets-get-you-a-job-ecrm9u"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "how to meet new people and make friends?",
+        "link": "https://anchor.fm/tanaypratap/episodes/how-to-meet-new-people-and-make-friends-ed1il6"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "avoiding DS n Algo questions in interviews ft. Kamlesh",
+        "link": "https://anchor.fm/tanaypratap/episodes/avoiding-DS-n-Algo-questions-in-interviews-ft--Kamlesh-ed2tga"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "Learning strategies for Data Structures and Algorithms ft. Sushil",
+        "link": "https://anchor.fm/tanaypratap/episodes/Learning-strategies-for-Data-Structures-and-Algorithms-ft--Sushil-ed6u9q"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "(Hindi) sarkari naukri k sapne dekhna kaise chhoota?",
+        "link": "https://anchor.fm/tanaypratap/episodes/Hindi-sarkari-naukri-k-sapne-dekhna-kaise-chhoota-edc9hs"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "Is web development safe/right as a career choice?",
+        "link": "https://anchor.fm/tanaypratap/episodes/Is-web-development-saferight-as-a-career-choice-edf35k"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "why python is not recommended for cs devs?",
+        "link": "https://anchor.fm/tanaypratap/episodes/why-python-is-not-recommended-for-cs-devs-edfq3f"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "Infosys to Microsoft. #1: the mindset ft. Abhik",
+        "link": "https://anchor.fm/tanaypratap/episodes/Infosys-to-Microsoft--1-the-mindset-ft--Abhik-edi8np"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "Infosys to Microsoft #2: Making your service job work for you ft. Abhik",
+        "link": "https://anchor.fm/tanaypratap/episodes/Infosys-to-Microsoft-2-Making-your-service-job-work-for-you-ft--Abhik-edmc2k"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "Infosys to Microsoft #3: Interviewing at start-ups ft. Abhik",
+        "link": "https://anchor.fm/tanaypratap/episodes/Infosys-to-Microsoft-3-Interviewing-at-start-ups-ft--Abhik-edpkls"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "Infosys to Microsoft #4: Excelling at a startup (current job) ft. Abhik",
+        "link": "https://anchor.fm/tanaypratap/episodes/Infosys-to-Microsoft-4-Excelling-at-a-startup-current-job-ft--Abhik-edpkrn"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "Infosys to Microsoft #5: the Last Lap - Interviewing at Microsoft",
+        "link": "https://anchor.fm/tanaypratap/episodes/Infosys-to-Microsoft-5-the-Last-Lap---Interviewing-at-Microsoft-edpktu"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "Dealing with upcoming recession, advice for software engineers ft. Shawn",
+        "link": "https://anchor.fm/tanaypratap/episodes/Dealing-with-upcoming-recession--advice-for-software-engineers-ft--Shawn-edqumd"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "(hindi) kahani, podcast, aur lockdown",
+        "link": "https://anchor.fm/tanaypratap/episodes/hindi-kahani--podcast--aur-lockdown-edv92r"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "Should we keep journal? How to do it?",
+        "link": "https://anchor.fm/tanaypratap/episodes/Should-we-keep-journal--How-to-do-it-efm226"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "Do we need to do Masters to become a great programmer?",
+        "link": "https://anchor.fm/tanaypratap/episodes/Do-we-need-to-do-Masters-to-become-a-great-programmer-efmba9"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "English Vinglish! How to improve my communication in English?",
+        "link": "https://anchor.fm/tanaypratap/episodes/English-Vinglish--How-to-improve-my-communication-in-English-eg7icj"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "Introducing teawithtanay | Season 1 Episode 0",
+        "link": "https://anchor.fm/teawithtanay/episodes/Introducing-teawithtanay--Season-1-Episode-0-e56alf"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "How books shape our life ft. Priyadeep Sinha | Season 1 Episode 1",
+        "link": "https://anchor.fm/teawithtanay/episodes/How-books-shape-our-life-ft--Priyadeep-Sinha--Season-1-Episode-1-e572ap"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "Hobby Projects ft. Rachit Gulati | Season 1 Episode 2",
+        "link": "https://anchor.fm/teawithtanay/episodes/Hobby-Projects-ft--Rachit-Gulati--Season-1-Episode-2-e5bkqv"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "Creating a community and scaling it too ft. Anubha Maneshwar | Season 1 Episode 3",
+        "link": "https://anchor.fm/teawithtanay/episodes/Creating-a-community-and-scaling-it-too-ft--Anubha-Maneshwar--Season-1-Episode-3-e5eotn"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "Vue.js and Getting Started with Open Source ft. Rahul Kadyan | Episode 4",
+        "link": "https://anchor.fm/teawithtanay/episodes/Vue-js-and-Getting-Started-with-Open-Source-ft--Rahul-Kadyan--Episode-4-e5iver"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "Winning Hackathons feat. Aviral Aggarwal | Episode 5",
+        "link": "https://anchor.fm/teawithtanay/episodes/Winning-Hackathons-feat--Aviral-Aggarwal--Episode-5-e5ptmo"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "Why Web Performance Matters feat. Saurabh Rajpal | Episode 6",
+        "link": "https://anchor.fm/teawithtanay/episodes/Why-Web-Performance-Matters-feat--Saurabh-Rajpal--Episode-6-e6em0r"
     },
     {
-        "question": "",
-        "link": ""
+        "question": "You can be a designer too ft. Abhinav Chhikara | Episode 7",
+        "link": "https://anchor.fm/teawithtanay/episodes/You-can-be-a-designer-too-ft--Abhinav-Chhikara--Episode-7-e7pk5g"
     },
     {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
-    },
-    {
-        "question": "",
-        "link": ""
+        "question": "Do I need to be good at design to do web development ft. Vikram Santhalia | Episode 8",
+        "link": "https://anchor.fm/teawithtanay/episodes/Do-I-need-to-be-good-at-design-to-do-web-development-ft--Vikram-Santhalia--Episode-8-e80aj3"
     }
 ]
