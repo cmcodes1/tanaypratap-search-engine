@@ -1,6 +1,6 @@
 <h1 align="center">:mag: tanaypratap-search-engine</h1>
 <p align="center">
-	Do you have a question for Tanay? Search here before you ask him! <br/><br/>
+	Do you have a question for <a href="https://www.tanaypratap.com">Tanay</a>? Search here before you ask him! <br/><br/>
 	<img src="https://img.shields.io/badge/Platform-Web-brightgreen.svg" alt="Platform-Web"/>
 	<img src="https://img.shields.io/badge/Version-0.1.0-green.svg" alt="Version-0.1.0"/>
 	<img src="https://img.shields.io/badge/App_Size-7_MB-orange.svg" alt="App_Size-7_MB"/>
