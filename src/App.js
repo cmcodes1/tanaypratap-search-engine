@@ -11,14 +11,13 @@ class App extends React.Component {
   }
 
   renderContent = content => {
-    const {search} = this.state;
     
     return (
       <div className="col-md-3" style={{ marginTop: "20px" }}>
         <Card>
           <CardBody>
             <CardTitle title={content.question}>
-              <a href={content.link} target="_blank">{content.question}</a> 
+              <a href={content.link} target="_blank" rel="noopener noreferrer">{content.question}</a>
             </CardTitle>
           </CardBody>
         </Card>
