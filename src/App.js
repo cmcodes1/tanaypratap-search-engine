@@ -84,7 +84,7 @@ class App extends React.Component {
           <p className="footer-copyright mb-0" style={{ marginTop: 50 }}>
             &copy; {new Date().getFullYear()} | Made by{" "}
             <a
-              href="https://cmcodes1.github.io/"
+              href="https://www.cmcodes.in/"
               target="_blank"
               rel="noopener noreferrer"
             >
